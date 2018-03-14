@@ -1,2 +1,2 @@
 # webDevelop
-Create some amazing Apps by HTML, CSS and JavaScript.
+Create some Apps by HTML, CSS and JavaScript.
